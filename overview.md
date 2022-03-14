@@ -1,4 +1,7 @@
-
+## Soccer Club Recognition Dashboard
+```text
+Neel Bhate CSCI 23000
+```
 
 ## Project Overwiew
 ```text
