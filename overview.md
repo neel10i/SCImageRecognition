@@ -12,7 +12,8 @@ Information such as, total number of goals/assists, total clubs, current goals/a
 ```
 ## Technical Framework
 ```text
-This project will be a web-based application. In the backend side, the Flask framework will be utilized. 
+This project will be a web-based application. On the backend side, the Flask framework will be used and there will be 
+a connection between the Flask application and the MySQL database.
 ```
 
 ## Data Design
